@@ -1,0 +1,6 @@
+.Content {
+    display: flex;
+    flex: 1;
+    background: linear-gradient(135deg, aqua, lightgray);
+    padding: 30px;
+}
